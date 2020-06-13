@@ -19,6 +19,7 @@ Notes-1
 - Changelly exchange integration sample will be provided (for Item-2)
 - Item-3, Item-4, Item-5 has additional 1% per transaction
 - Addional terms and conditions apply
+- The samples provided are functional features. I requires customization, testing before use.
 - 18% GST will be added
 
 
@@ -34,8 +35,8 @@ Contact:
 
 | Product   |     Try and Buy     |  Price |
 |----------|:-------------:|------:|
-|1. Contract creation/verification  |  try and buy| 5000 Rs|
-|2. Greet/verify on Blockchain |    on payment   |   5000 Rs |
+|1. Contract creation/verification  |  on payment | 5000 Rs|
+|2. Greet/verify on Blockchain |    try and buy   |   5000 Rs |
 
 
 Notes-2
@@ -43,6 +44,7 @@ Notes-2
 - 5000Rs is for usage license for 1 year only
 - Item-1, Item-2 has additional usage charges of 1000Rs/month for 1000requests
 - Addional terms and conditions apply
+- The samples provided are functional features. I requires customization, testing before use.
 - 18% GST will be added
 
 
