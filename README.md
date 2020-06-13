@@ -29,7 +29,7 @@ Payment
 
 Contact: 
 - Phone +91-9886626090
-- Email puppipay01@gmail.com
+- Email ramesh.belavadi@belavaditech.com
 
 ## Dash blockchain solution (Non-Financial) (Notes-2)
 
@@ -50,6 +50,6 @@ Notes-2
 
 Contact: 
 - Phone +91-9886626090
-- Email puppipay01@gmail.com
+- Email ramesh.belavadi@belavaditech.com
 
 
