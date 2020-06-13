@@ -46,5 +46,8 @@ Notes-2
 - 18% GST will be added
 
 
+Contact: 
+- Phone +91-9886626090
+- Email puppipay01@gmail.com
 
 
